@@ -43,6 +43,10 @@ export function MainMenu({ onPlay, onHowToPlay }: MainMenuProps) {
         <div className="mt-8 text-sm text-purple-400">
           Wave-based tower defense • Evolve your turrets to Level 6
         </div>
+
+        <div className="mt-4 text-xs text-purple-500/70 tracking-widest uppercase">
+          ⚡ Engineered by <span className="text-cyan-400/80 font-semibold">Ranteg Singh Johal</span> — where code meets chaos
+        </div>
       </div>
     </div>
   );
