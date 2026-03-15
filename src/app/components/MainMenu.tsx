@@ -45,7 +45,7 @@ export function MainMenu({ onPlay, onHowToPlay }: MainMenuProps) {
         </div>
 
         <div className="mt-4 text-xs text-purple-500/70 tracking-widest uppercase">
-          ⚡ Engineered by <span className="text-cyan-400/80 font-semibold">Ranteg Singh Johal</span>
+          ⚡ Engineered by <span className="text-cyan-400/80 font-semibold">Ranteg Singh Johal</span> 🎮
         </div>
       </div>
     </div>
