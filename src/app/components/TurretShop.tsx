@@ -17,7 +17,7 @@ export function TurretShop({ gems, onBuyTurret }: TurretShopProps) {
     <div className="absolute bottom-4 left-4 bg-slate-900/95 backdrop-blur rounded-lg p-2 border border-cyan-500/50 w-48">
       <h3 className="text-sm font-bold text-cyan-400 mb-1.5 flex items-center gap-1.5">
         <Target className="h-3 w-3" />
-        Turret Shop
+        Ranteg's Turret Shop
       </h3>
       
       <div className="space-y-1.5">
